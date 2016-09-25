@@ -39,19 +39,19 @@ layout: default
     <div class="section section--puff">
 
       <div class="btn__container">
-        <a href="{{ page.url | prepend: site.github.url }}/sa_kan_kvinnojouren_hjalpa">Så kan kvinnojouren hjälpa</a>
+        <a href="{{ site.baseurl }}sa_kan_kvinnojouren_hjalpa/">Så kan kvinnojouren hjälpa</a>
       </div>
 
       <div class="btn__container">
-        <a href="/orolig_for_en_van">Orolig för en vän?</a>
+        <a href="{{ site.baseurl }}orolig_for_en_van/">Orolig för en vän?</a>
       </div>
 
       <div class="btn__container">
-        <a href="/varningstecken">Varningstecken</a>
+        <a href="{{ site.baseurl }}varningstecken/">Varningstecken</a>
       </div>
 
       <div class="btn__container">
-        <a href="/om_tensta_kvinno_och_tjejejour">Om Tensta Kvinno- och Tjejejour</a>
+        <a href="{{ site.baseurl }}om_tensta_kvinno_och_tjejejour/">Om Tensta Kvinno- och Tjejejour</a>
       </div>
 
     </div>
@@ -61,7 +61,7 @@ layout: default
       <ul>
         {% for post in site.posts %}
           <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ site.baseurl }}{{ post.url }}/">{{ post.title }}</a>
           </li>
         {% endfor %}
       </ul>
