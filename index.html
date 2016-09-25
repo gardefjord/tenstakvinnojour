@@ -1,0 +1,71 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="section section--intro">
+    <div class="hero__language">
+
+    </div>
+
+    <div class="hero__logo">
+      <h1>Tensta Kvinno- och Tjejjour</h1>
+    </div>
+
+    <div class="hero__text">
+
+      <h3 class="hero__tagline">
+      Tensta Kvinno- och Tjejjour ger stöd och råd till kvinnor, tjejer, mammor och barn som är utsatta för våld och hot.
+      </h3>
+      <h2 class="">
+        Behöver du hjälp?
+      </h2>
+
+      <div class="hero__phone">
+        <div>
+          Svenska, Engelska, Somalistka. <span>Kan även bistå med tolk.</span>
+        </div>
+        <div>
+          <p>Ring 08 - 36 38 70</p>
+        </div>
+      </div>
+
+      <div class="">
+        <p>Telefonlinjen är öppen mellan 9-17, samt kvällsöppen på onsdagarn mellan 7-21.</p>
+        <p>Vill du prata med någon under andra tider, prova då <a href="#">Kvinnofridslinjen</a> eller <a href="#">Socialjouren</a>.</p>
+      </div>
+
+    </div>
+
+    <div class="section section--puff">
+
+      <div class="btn__container">
+        <a href="/sa_kan_kvinnojouren_hjalpa">Så kan kvinnojouren hjälpa</a>
+      </div>
+
+      <div class="btn__container">
+        <a href="/orolig_for_en_van">Orolig för en vän?</a>
+      </div>
+
+      <div class="btn__container">
+        <a href="/varningstecken">Varningstecken</a>
+      </div>
+
+      <div class="btn__container">
+        <a href="/om_tensta_kvinno_och_tjejejour">Om Tensta Kvinno- och Tjejejour</a>
+      </div>
+
+    </div>
+
+    <div class="section section--news">
+    <h1>Aktuellt</h1>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</div>
