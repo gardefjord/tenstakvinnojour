@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+$small-width: 767px;
+
+@mixin small {
+  @media (max-width: #{$small-width}) {
+    @content;
+  }
+}
+
+$site-width: 960px;
+
+$base-font-family: 'Open Sans';
+$base-font-weight: 300;
+$base-font-size: 16px;
+$base-line-height: 1.5;
+
+$c-primary: #ff799c;
+$c-secondary: #ffffff;
+$c-primary--dark: #170b0e;

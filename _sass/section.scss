@@ -1,0 +1,100 @@
+@import 'variables';
+
+.section {
+  &--nav {
+
+    .section--inner {
+      padding: 10px;
+    }
+  }
+
+  &--hero {
+    background: $c-primary;
+    padding-top: 60px;
+    color: #fff;
+
+    .section--inner {
+      @include small {
+        flex-direction: column;
+      }
+    }
+  }
+
+  &--puff {
+    padding-top: 80px;
+
+    .section--inner {
+      flex-direction: column;
+    }
+
+    @include small {
+      padding-top: 30px;
+    }
+  }
+
+  &--sign-up {
+    background: scale-color(#fff, $lightness: -3%);
+    text-align: center;
+    padding: 30px;
+
+    .section--inner {
+      justify-content: center;
+    }
+  }
+
+  &--pricing {
+    padding: 0;
+
+    .section--inner {
+      padding: 0;
+
+      @include small {
+        flex-direction: column;
+      }
+    }
+  }
+
+  &--footer {
+    background: $c-primary;
+    padding: 10px;
+    font-weight: 400;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .section--inner {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
+  &--welcome {
+    background: $c-primary;
+    color: #fff;
+    height: 100%;
+
+    .section--inner {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+.section--inner {
+  display: flex;
+  max-width: $site-width;
+  margin: 0 auto;
+  padding: 30px;
+
+  @include small {
+    padding: 10px;
+  }
+}
