@@ -9,14 +9,12 @@
   }
 
   &--hero {
-    background: $c-primary;
-    padding-top: 60px;
-    color: #fff;
 
     .section--inner {
-      @include small {
-        flex-direction: column;
-      }
+      text-align: center;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 600px;
     }
   }
 

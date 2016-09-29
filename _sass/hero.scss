@@ -1,40 +1,11 @@
 @import 'variables';
 
-.hero__device {
-  margin-bottom: -90px;
-  padding-left: 40px;
-  max-width: 400px;
+.hero__logo {
 
-  img {
-    width: 100%;
-  }
-
-  @include small {
-    order: 2;
-    padding-left: 0;
-    align-self: center;
-    margin: 0px 40px -10px;
-  }
-}
-
-.device {
-  @include small {
-    display: none;
-  }
-}
-
-.device--mobile {
-  display: none;
-
-  @include small {
-    display: block;
-  }
 }
 
 .hero__info {
-  padding-top: 60px;
-  margin-left: 80px;
-  padding-right: 40px;
+
 
   h1 {
     margin-bottom: 5px;
@@ -44,12 +15,4 @@
     margin-bottom: 40px;
   }
 
-  @include small {
-    order: 1;
-    margin-left: 0;
-    margin-bottom: 40px;
-    padding-right: 0;
-    padding-top: 0;
-    text-align: center;
-  }
 }
