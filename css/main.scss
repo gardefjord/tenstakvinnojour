@@ -25,6 +25,7 @@ body {
 
 a {
   color: $c-primary;
+  text-decoration: none;
 }
 
 h1 {
@@ -33,9 +34,12 @@ h1 {
   font-weight: 700;
   padding-bottom: 12px;
 }
-
-h3 {
+h2 {
   font-size: 24px;
+  font-weight: 600;
+}
+h3 {
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -43,3 +47,28 @@ h4 {
   font-size: 16px;
   font-weight: 700;
 }
+
+
+//flags
+.flag {
+  padding-left: 25px;
+  background-repeat: no-repeat;
+  background-size: 22px;
+}
+.flag--eng {
+  background-image: url('../images/united-kingdom.png');
+}
+
+.flag--som {
+  background-image: url('../images/somalia.png');
+}
+
+.flag--swe {
+  background-image: url('../images/sweden.png');
+}
+
+
+
+
+
+

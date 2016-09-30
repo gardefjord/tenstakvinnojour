@@ -15,18 +15,21 @@
       flex-direction: column;
       justify-content: center;
       max-width: 600px;
+      padding: 0px;
     }
   }
 
   &--puff {
-    padding-top: 80px;
+    padding: 30px;
 
     .section--inner {
-      flex-direction: column;
+      text-align: center;
+      max-width: 600px;
+      padding-top: 30px;
     }
 
     @include small {
-      padding-top: 30px;
+
     }
   }
 
@@ -90,7 +93,6 @@
   display: flex;
   max-width: $site-width;
   margin: 0 auto;
-  padding: 30px;
 
   @include small {
     padding: 10px;

@@ -1,18 +1,58 @@
 @import 'variables';
 
 .hero__logo {
-
+  margin-bottom: 16px;
 }
 
 .hero__info {
+  border: 8px solid $c-primary;
+  padding: 20px;
+  border-radius: 10px;
 
+  p {
+    margin-bottom: 12px;
+  }
 
   h1 {
     margin-bottom: 5px;
   }
 
+
+
   h4 {
     margin-bottom: 40px;
   }
 
+}
+
+.hero__tagline {
+  margin-bottom: 32px;
+}
+
+.hero__puff {
+  margin-bottom: 6px;
+
+  h2 {
+    font-weight: bold;
+  }
+}
+
+.hero__phone {
+  margin: 0 auto;
+  max-width: 460px;
+  text-align: left;
+
+  .hero__phone--number{
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 5px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    color: $c-secondary;
+    background-color: $c-primary;
+  }
+
+  .hero__phone--info{
+
+  }
 }

@@ -4,10 +4,40 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
-.hero__info h1 {
-  margin-bottom: 5px; }
-.hero__info h4 {
-  margin-bottom: 40px; }
+.hero__logo {
+  margin-bottom: 16px; }
+
+.hero__info {
+  border: 8px solid #ff799c;
+  padding: 20px;
+  border-radius: 10px; }
+  .hero__info p {
+    margin-bottom: 12px; }
+  .hero__info h1 {
+    margin-bottom: 5px; }
+  .hero__info h4 {
+    margin-bottom: 40px; }
+
+.hero__tagline {
+  margin-bottom: 32px; }
+
+.hero__puff {
+  margin-bottom: 6px; }
+  .hero__puff h2 {
+    font-weight: bold; }
+
+.hero__phone {
+  margin: 0 auto;
+  max-width: 460px;
+  text-align: left; }
+  .hero__phone .hero__phone--number {
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 5px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    color: #ffffff;
+    background-color: #ff799c; }
 
 .main-nav {
   width: 100%; }
@@ -28,13 +58,14 @@
         color: black; }
 
 .puff {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: 50px; }
-  @media (max-width: 767px) {
-    .puff {
-      flex-direction: column; } }
+  width: 50%;
+  margin: 0px 10px;
+  background: #ff799c;
+  border-radius: 5px;
+  text-align: center;
+  color: #ffffff;
+  padding: 20px;
+  font-weight: bold; }
 
 .puff__image {
   max-width: 350px;
@@ -103,14 +134,14 @@ table {
   text-align: center;
   flex-direction: column;
   justify-content: center;
-  max-width: 600px; }
+  max-width: 600px;
+  padding: 0px; }
 .section--puff {
-  padding-top: 80px; }
+  padding: 30px; }
   .section--puff .section--inner {
-    flex-direction: column; }
-  @media (max-width: 767px) {
-    .section--puff {
-      padding-top: 30px; } }
+    text-align: center;
+    max-width: 600px;
+    padding-top: 30px; }
 .section--sign-up {
   background: #f7f7f7;
   text-align: center;
@@ -148,9 +179,8 @@ table {
 
 .section--inner {
   display: flex;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 30px; }
+  max-width: 600px;
+  margin: 0 auto; }
   @media (max-width: 767px) {
     .section--inner {
       padding: 10px; } }
@@ -201,7 +231,8 @@ body {
   color: #170b0e; }
 
 a {
-  color: #ff799c; }
+  color: #ff799c;
+  text-decoration: none; }
 
 h1 {
   font-size: 38px;
@@ -209,10 +240,28 @@ h1 {
   font-weight: 700;
   padding-bottom: 12px; }
 
-h3 {
+h2 {
   font-size: 24px;
+  font-weight: 600; }
+
+h3 {
+  font-size: 16px;
   font-weight: 600; }
 
 h4 {
   font-size: 16px;
   font-weight: 700; }
+
+.flag {
+  padding-left: 25px;
+  background-repeat: no-repeat;
+  background-size: 22px; }
+
+.flag--eng {
+  background-image: url("../images/united-kingdom.png"); }
+
+.flag--som {
+  background-image: url("../images/somalia.png"); }
+
+.flag--swe {
+  background-image: url("../images/sweden.png"); }

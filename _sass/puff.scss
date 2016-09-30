@@ -1,14 +1,19 @@
 @import 'variables';
 
 .puff {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: 50px;
+  width: 50%;
+  margin: 0px 10px;
+  background: $c-primary;
+  border-radius: 5px;
+  text-align: center;
+  color: $c-secondary;
+  padding: 20px;
+  font-weight: bold;
 
   @include small {
-    flex-direction: column;
+
   }
+
 }
 
 .puff__image {
