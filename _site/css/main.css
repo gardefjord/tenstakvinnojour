@@ -8,7 +8,6 @@
   margin-bottom: 16px; }
 
 .hero__info {
-  border: 8px solid #ff799c;
   padding: 20px;
   border-radius: 10px; }
   .hero__info p {
@@ -134,27 +133,19 @@ table {
   text-align: center;
   flex-direction: column;
   justify-content: center;
-  max-width: 600px;
   padding: 0px; }
 .section--puff {
   padding: 30px; }
   .section--puff .section--inner {
     text-align: center;
-    max-width: 600px;
     padding-top: 30px; }
-.section--sign-up {
-  background: #f7f7f7;
-  text-align: center;
+.section--news {
   padding: 30px; }
-  .section--sign-up .section--inner {
-    justify-content: center; }
-.section--pricing {
-  padding: 0; }
-  .section--pricing .section--inner {
-    padding: 0; }
-    @media (max-width: 767px) {
-      .section--pricing .section--inner {
-        flex-direction: column; } }
+  .section--news .section--inner {
+    ext-align: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px; }
 .section--footer {
   background: #ff799c;
   padding: 10px;
@@ -168,18 +159,9 @@ table {
     flex-direction: column;
     justify-content: center;
     align-items: center; }
-.section--welcome {
-  background: #ff799c;
-  color: #fff;
-  height: 100%; }
-  .section--welcome .section--inner {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center; }
 
 .section--inner {
   display: flex;
-  max-width: 600px;
   margin: 0 auto; }
   @media (max-width: 767px) {
     .section--inner {

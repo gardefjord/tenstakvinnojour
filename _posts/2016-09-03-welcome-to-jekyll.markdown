@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "En exempelnyhet!"
-date:   2016-09-03 15:54:08 +0200
+title:  "Välkommen till nya hemsidan!"
+date:   2016-10-01
 categories: test
+description: "Idag lanserar vi vår nya hemsidan. Nu kan du enkelt följa vad vi gör och framförallt: snabbare och enklare komma i kontakt med jouren."
 ---
 Text i en exempelnyhet

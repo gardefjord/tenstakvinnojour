@@ -6,9 +6,6 @@ layout: default
     <div class="hero__language">
 
     </div>
-    <div class="hero__logo">
-      <img class="logo" src="{{ site.baseurl }}/images/tenstakvinnojourlogga.jpg")} />
-    </div>
     <h3 class="hero__tagline">
       Tensta Kvinno- och Tjejjour ger stöd och råd till kvinnor, tjejer, mammor och barn som är utsatta för våld och hot.
       </h3>
@@ -56,11 +53,13 @@ layout: default
 
 <div class="section section--news">
   <div class="section--inner">
-    <h1>Aktuellt</h1>
+    <h2>Senaste nytt</h2>
     <ul>
       {% for post in site.posts %}
         <li>
-          <a href="{{ site.baseurl }}{{ post.url }}term">{{ post.title }}</a>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <p class="postdate">{{ post.date | date: '%B %d, %Y' }}</p>
+          <p>{{ post.description }}</p>
         </li>
       {% endfor %}
     </ul>
