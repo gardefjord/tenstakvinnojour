@@ -1,57 +1,82 @@
 @import 'variables';
 
-.hero__logo {
-  margin-bottom: 16px;
+.hero__tagline {
+  color: $c-secondary;
+  padding-bottom: 60px;
 }
 
 .hero__info {
-  padding: 20px;
-  border-radius: 10px;
-
-  p {
-    margin-bottom: 12px;
-  }
+  color: $c-secondary;
 
   h1 {
-    margin-bottom: 5px;
+    margin-bottom: 24px;
   }
 
+  .hero__phone {
+    float: left;
+    margin-bottom: 22px;
 
+    .phone-icon {
+      display: block;
+      width: 75px;
+      height: 75px;
+      background: $c-secondary;
+      float: left;
+      margin-right: 20px;
+    }
+    .phone-number {
+      float: left;
 
-  h4 {
-    margin-bottom: 40px;
+      h1 {
+        font-weight: 800;
+        line-height: 0.7;
+        margin-bottom: 6px;
+      }
+
+      .flag-list {
+        display: inline-block;
+        background-color: rgba($c-secondary, 0.3);
+        border-radius: 2px;
+        padding: 3px 0px 3px 5px;
+        li {
+          float: left;
+        }
+
+        .flag {
+          height: 22px;
+          width: 22px;
+        }
+      }
+    }
   }
 
 }
 
-.hero__tagline {
-  margin-bottom: 32px;
-}
+.opening {
+  clear: both;
+  table {
+    .days {
+      font-size: 14px;
 
-.hero__puff {
-  margin-bottom: 6px;
+      td {
+        padding-right: 22px;
+      }
+    }
 
-  h2 {
-    font-weight: bold;
-  }
-}
+    .hours {
+      font-size: 18px;
+      font-weight: 600;
 
-.hero__phone {
-  margin: 0 auto;
-  max-width: 460px;
-  text-align: left;
-
-  .hero__phone--number{
-    font-weight: bold;
-    text-align: center;
-    padding: 10px 5px;
-    margin-bottom: 8px;
-    border-radius: 3px;
-    color: $c-secondary;
-    background-color: $c-primary;
+      td {
+        padding-right: 22px;
+      }
+    }
   }
 
-  .hero__phone--info{
-
-  }
 }
+
+
+
+
+
+

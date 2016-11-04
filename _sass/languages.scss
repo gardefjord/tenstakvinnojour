@@ -1,0 +1,41 @@
+.flag-list{
+  display: flex;
+
+  li {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
+.flag {
+  background-repeat: no-repeat;
+  height: 45px;
+  width: 45px;
+  display: block;
+  background-size: 100% auto;
+  margin-right: 5px;
+  opacity: 0.5;
+
+  &.active {
+    opacity: 1;
+  }
+}
+//flags
+.inline-flag {
+  padding-left: 25px;
+  background-repeat: no-repeat;
+  background-size: 23px auto;
+}
+.flag--eng {
+  background-image: url('../images/united-kingdom.png');
+}
+
+.flag--som {
+  background-image: url('../images/somalia.png');
+}
+
+.flag--swe {
+  background-image: url('../images/sweden.png');
+}
+
+
+

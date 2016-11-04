@@ -1,20 +1,31 @@
 @import 'variables';
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
 .section {
   &--nav {
-
-    .section--inner {
-      padding: 10px;
-    }
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90px;
+    padding: 10px 50px;
+  }
+  &--languages {
+    padding: 0px 50px;
   }
 
+
   &--hero {
+    width: 80%;
+    padding: 10px 50px;
 
     .section--inner {
-      text-align: center;
+      background-color: $c-primary;
+      border-radius: 6px;
+      padding: 60px 80px 60px 80px;
       flex-direction: column;
       justify-content: center;
-      padding: 0px;
     }
   }
 
