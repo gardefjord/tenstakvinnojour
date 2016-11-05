@@ -18,7 +18,7 @@ header {
 
   &--hero {
     width: 80%;
-    padding: 10px 50px;
+    padding: 20px 50px;
 
     .section--inner {
       background-color: $c-primary;
@@ -28,6 +28,34 @@ header {
       justify-content: center;
     }
   }
+  &--info {
+    max-width: 690px;
+    padding: 10px 50px;
+
+    .section--inner {
+      flex-direction: column;
+      justify-content: center;
+      padding: 0px 80px;
+      color: $c-primary--dark;
+      p {
+        margin-bottom: 28px;
+      }
+    }
+  }
+
+  &--two-column {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+    .section--inner {
+      width: 50%;
+      flex-direction: column;
+      padding: 0px 80px;
+
+    }
+  }
+
+
 
   &--puff {
     padding: 30px;

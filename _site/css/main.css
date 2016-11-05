@@ -52,21 +52,12 @@
       padding-right: 22px; }
 
 .puff {
-  width: 50%;
-  margin: 0px 10px;
-  background: #FF2D64;
-  border-radius: 5px;
-  text-align: center;
-  color: #ffffff;
-  padding: 20px;
-  font-weight: bold; }
-
-.puff__image {
-  max-width: 350px;
-  flex: none;
-  align-items: center; }
-  .puff__image img {
-    width: 100%; }
+  padding: 40px h2;
+    padding-text-transform: uppercase;
+    padding-margin-bottom: 15px;
+    padding-color: #FF2D64; }
+  .puff p {
+    color: #170b0e; }
 
 .puff__info {
   margin-left: 80px;
@@ -135,13 +126,31 @@ header {
   padding: 0px 50px; }
 .section--hero {
   width: 80%;
-  padding: 10px 50px; }
+  padding: 20px 50px; }
   .section--hero .section--inner {
     background-color: #FF2D64;
     border-radius: 6px;
     padding: 60px 80px 60px 80px;
     flex-direction: column;
     justify-content: center; }
+.section--info {
+  max-width: 690px;
+  padding: 10px 50px; }
+  .section--info .section--inner {
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 80px;
+    color: #170b0e; }
+    .section--info .section--inner p {
+      margin-bottom: 28px; }
+.section--two-column {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; }
+  .section--two-column .section--inner {
+    width: 50%;
+    flex-direction: column;
+    padding: 0px 80px; }
 .section--puff {
   padding: 30px; }
   .section--puff .section--inner {
@@ -284,18 +293,22 @@ a {
 .bolder {
   font-weight: 800; }
 
+.bold {
+  font-weight: 600; }
+
 h1 {
   font-size: 44px;
   line-height: 1.2;
   padding-bottom: 12px; }
 
 h2 {
-  font-size: 24px;
+  font-size: 36px;
   font-weight: 600; }
 
 h3 {
-  font-size: 16px;
-  font-weight: 600; }
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase; }
 
 h4 {
   font-size: 16px;
