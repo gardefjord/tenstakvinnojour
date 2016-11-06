@@ -110,14 +110,15 @@ layout: default
     </div>
   </div>
 
-  <div class="section--inner">
-    <h2>Senaste nytt</h2>
+  <div class="section--inner news">
+    <h3 class="bolder">Aktuellt</h3>
+
     <ul>
       {% for post in site.posts %}
         <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <a class="headline bold" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           <p class="postdate">{{ post.date | date: '%B %d, %Y' }}</p>
-          <p>{{ post.description }}</p>
+          <p class="description">{{ post.description }}</p>
         </li>
       {% endfor %}
     </ul>
