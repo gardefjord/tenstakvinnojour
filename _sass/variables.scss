@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
 
-$small-width: 767px;
+$small-width: 799px;
 
 @mixin small {
   @media (max-width: #{$small-width}) {
@@ -18,3 +18,4 @@ $base-line-height: 1.5;
 $c-primary: #FF2D64;
 $c-secondary: #ffffff;
 $c-primary--dark: #1A1A1A;
+

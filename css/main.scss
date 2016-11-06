@@ -42,22 +42,40 @@ h1 {
   font-size: 44px;
   line-height: ($base-line-height - 0.3);
   padding-bottom: 12px;
+
+  @include small {
+    font-size: 24px;
+    line-height: ($base-line-height - 0.1);
+    padding-bottom: 8px;
+  }
 }
 
 h2 {
   font-size: 36px;
   font-weight: 600;
+
+  @include small {
+    font-size: 18px;
+  }
 }
 
 h3 {
   font-size: 24px;
   font-weight: 600;
   text-transform: uppercase;
+
+  @include small {
+    font-size: 14px;
+  }
 }
 
 h4 {
   font-size: 16px;
   font-weight: 700;
+
+  @include small {
+    font-size: 12px;
+  }
 }
 
 

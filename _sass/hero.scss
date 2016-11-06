@@ -3,6 +3,10 @@
 .hero__tagline {
   color: $c-secondary;
   padding-bottom: 60px;
+
+  @include small {
+    padding-bottom: 30px;
+  }
 }
 
 .hero__info {
@@ -10,6 +14,10 @@
 
   h1 {
     margin-bottom: 24px;
+
+    @include small {
+      margin-bottom: 2px;
+    }
   }
 
   .hero__phone {
@@ -23,6 +31,11 @@
       background: $c-secondary;
       float: left;
       margin-right: 20px;
+
+      @include small {
+        width: 57px;
+        height: 57px;
+      }
     }
     .phone-number {
       float: left;

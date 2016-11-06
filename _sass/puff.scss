@@ -3,9 +3,18 @@
 .puff {
   border-radius: 5px;
   margin-bottom: 50px;
+
+  @include small {
+    margin-bottom: 20px;
+  }
+
   a {
     display: block;
     padding: 20px 35px 35px 35px;
+
+    @include small {
+      padding: 10px 15px 15px 15px;
+    }
   }
 
   h2 {
