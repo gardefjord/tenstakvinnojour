@@ -3,6 +3,10 @@
 header {
   display: flex;
   justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  background-color: $c-secondary;
+  z-index: 999;
 }
 .section {
   &--nav {
@@ -12,7 +16,7 @@ header {
     padding: 10px 50px;
   }
   &--languages {
-    padding: 0px 50px;
+    padding: 100px 50px 0px 50px;
   }
 
 
@@ -47,7 +51,7 @@ header {
   &--two-column {
       display: flex;
       flex-direction: row;
-      align-items: flex-start;
+      align-items: stretch;
 
     .section--inner {
       width: 50%;

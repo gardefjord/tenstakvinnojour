@@ -124,7 +124,11 @@ table {
 
 header {
   display: flex;
-  justify-content: space-between; }
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  background-color: #ffffff;
+  z-index: 999; }
 
 .section--nav {
   flex-direction: column;
@@ -132,7 +136,7 @@ header {
   height: 90px;
   padding: 10px 50px; }
 .section--languages {
-  padding: 0px 50px; }
+  padding: 100px 50px 0px 50px; }
 .section--hero {
   width: 80%;
   padding: 20px 50px; }
@@ -155,7 +159,7 @@ header {
 .section--two-column {
   display: flex;
   flex-direction: row;
-  align-items: flex-start; }
+  align-items: stretch; }
   .section--two-column .section--inner {
     width: 50%;
     flex-direction: column;
