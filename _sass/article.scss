@@ -1,0 +1,37 @@
+.post {
+  flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 50px;
+}
+.section--article {
+  h1 {
+    font-weight: 800;
+  }
+
+  h3 {
+    margin: 24px 0px 8px 0px;
+  }
+
+  p {
+    margin-bottom: 12px;
+  }
+
+  ol {
+    list-style: decimal;
+
+    li {
+
+    }
+  }
+
+  ul {
+    list-style: disc;
+
+    li {
+
+    }
+  }
+
+
+
+}

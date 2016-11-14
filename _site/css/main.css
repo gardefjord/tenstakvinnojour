@@ -3,7 +3,22 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
+.post {
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px 50px; }
+
+.section--article h1 {
+  font-weight: 800; }
+.section--article h3 {
+  margin: 24px 0px 8px 0px; }
+.section--article p {
+  margin-bottom: 12px; }
+.section--article ol {
+  list-style: decimal; }
+.section--article ul {
+  list-style: disc; }
+
 .hero__tagline {
   color: #ffffff;
   padding-bottom: 60px; }
@@ -201,7 +216,8 @@ header {
 .section--two-column {
   display: flex;
   flex-direction: row;
-  align-items: stretch; }
+  align-items: stretch;
+  margin-bottom: 120px; }
   @media (max-width: 799px) {
     .section--two-column {
       flex-direction: column; } }
@@ -238,10 +254,17 @@ header {
 .section--news {
   padding: 30px; }
   .section--news .section--inner {
-    ext-align: center;
+    text-align: center;
     flex-direction: column;
     justify-content: center;
     padding: 0px; }
+.section--article .section--inner {
+  max-width: 540px;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 120px 0px;
+  text-align: left; }
 .section--footer {
   background: #FF2D64;
   padding: 10px;
@@ -321,48 +344,13 @@ header {
   background-size: 23px auto; }
 
 .flag--eng {
-  background-image: url("../images/united-kingdom.png"); }
+  background-image: url("../images/flags/united-kingdom.png"); }
 
 .flag--som {
-  background-image: url("../images/somalia.png"); }
+  background-image: url("../images/flags/somalia.png"); }
 
 .flag--swe {
-  background-image: url("../images/sweden.png"); }
-
-.sign-up__button, .sign-up__button--light {
-  font-family: "Open Sans";
-  line-height: 1.5;
-  color: #484848;
-  border-radius: 7px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
-  font-weight: 700;
-  font-size: 16px;
-  border: 0;
-  padding: 10px 25px;
-  cursor: pointer;
-  outline: none;
-  transition: all .2s;
-  min-width: 230px; }
-  .sign-up__button:active, .sign-up__button--light:active {
-    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1); }
-  @media (max-width: 799px) {
-    .sign-up__button, .sign-up__button--light {
-      font-size: 18px; } }
-
-.sign-up__button {
-  background: #ffffff;
-  margin-bottom: 5px; }
-  .sign-up__button:hover {
-    background: white; }
-
-.sign-up__button--light {
-  background: #fff; }
-  .sign-up__button--light:hover {
-    background: #fafafa; }
-
-.sign-up__subtext {
-  padding-top: 5px;
-  font-size: 14px; }
+  background-image: url("../images/flags/sweden.png"); }
 
 * {
   box-sizing: border-box; }

@@ -90,6 +90,7 @@ header {
       display: flex;
       flex-direction: row;
       align-items: stretch;
+      margin-bottom: 120px;
 
       @include small {
         flex-direction: column;
@@ -154,14 +155,24 @@ header {
     padding: 30px;
 
     .section--inner {
-      ext-align: center;
+      text-align: center;
       flex-direction: column;
       justify-content: center;
       padding: 0px;
     }
 
     @include small {
+    }
+  }
+  &--article {
 
+    .section--inner {
+      max-width: 540px;
+      text-align: center;
+      flex-direction: column;
+      justify-content: center;
+      padding: 120px 0px;
+      text-align: left;
     }
   }
 
