@@ -33,19 +33,19 @@
 
           <title>Tensta Kvinno- och Tjejjour ger stöd och råd till kvinnor, tjejer, mammor och barn som är utsatta för våld och hot.</title>
 
-    <link rel="stylesheet" href="/tenstakvinnojour/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
   </head>
   <body>
 
     <header>
       <div class="section section--nav">
-        <a href="/tenstakvinnojour/"><img class="logo" src="/tenstakvinnojour/images/tenstakvinnojourlogga.jpg")} /></a>
+        <a href="{{ site.baseurl }}/"><img class="logo" src="{{ site.baseurl }}/images/tenstakvinnojourlogga.jpg")} /></a>
       </div>
       <div class="section section--nav">
         <nav class="main-nav">
           <ul>
-            <li><a href="/tenstakvinnojour/dolj_ditt_besok/">Dölj ditt besök?</a></li>
+            <li><a href="{{ site.baseurl }}/dolj_ditt_besok/">Dölj ditt besök?</a></li>
             <li><a href="http://www.google.se">Lämna sidan</a></li>
           </ul>
         </nav>
@@ -56,17 +56,14 @@
       <div class="page">
           <div class="section section--article">
             <div class="section--inner">
-              <h1>Välkommen till nya hemsidan!</h1>
-              <span>October 01, 2016</span>
+              <h1>{{ page.title }}</h1>
+              <span>{{ page.date | date: '%B %d, %Y' }}</span>
 
-              <hr />
-<p>Vi har uppdaterat vår hemsida. Här kan du enkelt komma i kontakt med jouren, gärna genom vårt direktnummer: <strong>08 - 36 38 70</strong>.</p>
-
-<hr />
-
-
+              {{ content }}
               <div class="PageNavigation">
-                
+                {% if post.next.url %}
+                  <a class="next" href="{{page.next.url}}">Nästa</a>
+                {% endif %}
               </div>
           </div>
         </div>

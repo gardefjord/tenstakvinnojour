@@ -24,6 +24,22 @@ body {
   line-height: $base-line-height;
   color: $c-primary--dark;
 }
+// Allow document to scroll
+html { overflow: auto }
+
+// Render document and body
+// as table elements to force
+// filling of height
+html, body {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.content{
+  display: table;
+  height: 100%;
+  width: 100%;
+}
 
 a {
   color: $c-primary;

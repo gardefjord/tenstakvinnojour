@@ -358,6 +358,33 @@ header {
 .flag--swe {
   background-image: url("../images/flags/sweden.png"); }
 
+.flag--ukr {
+  background-image: url("../images/flags/ukraine.png"); }
+
+.flag--fin {
+  background-image: url("../images/flags/finland.png"); }
+
+.flag--tur {
+  background-image: url("../images/flags/turkey.png"); }
+
+.flag--rys {
+  background-image: url("../images/flags/russia.png"); }
+
+.flag--pol {
+  background-image: url("../images/flags/poland.png"); }
+
+.flag--iran {
+  background-image: url("../images/flags/iran.png"); }
+
+.flag--iraq {
+  background-image: url("../images/flags/iraq.png"); }
+
+.flag--eri {
+  background-image: url("../images/flags/eritrea.png"); }
+
+.flag--kur {
+  background-image: url("../images/flags/kurdistan.png"); }
+
 * {
   box-sizing: border-box; }
 
@@ -367,6 +394,19 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #1A1A1A; }
+
+html {
+  overflow: auto; }
+
+html, body {
+  display: table;
+  height: 100%;
+  width: 100%; }
+
+.content {
+  display: table;
+  height: 100%;
+  width: 100%; }
 
 a {
   color: #FF2D64;
