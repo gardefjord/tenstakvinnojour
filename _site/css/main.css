@@ -12,12 +12,16 @@
   font-weight: 800; }
 .section--article h3 {
   margin: 24px 0px 8px 0px; }
+.section--article h4 {
+  margin-bottom: 12px; }
 .section--article p {
   margin-bottom: 12px; }
 .section--article ol {
-  list-style: decimal; }
+  list-style: decimal;
+  margin-bottom: 12px; }
 .section--article ul {
-  list-style: disc; }
+  list-style: disc;
+  margin-bottom: 12px; }
 
 .hero__tagline {
   color: #ffffff;
@@ -40,7 +44,9 @@
       display: block;
       width: 75px;
       height: 75px;
-      background: #ffffff;
+      background: #ffffff url("../images/phone.png") no-repeat;
+      background-size: 50%;
+      background-position: center center;
       float: left;
       margin-right: 20px; }
       @media (max-width: 799px) {

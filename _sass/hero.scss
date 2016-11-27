@@ -28,7 +28,9 @@
       display: block;
       width: 75px;
       height: 75px;
-      background: $c-secondary;
+      background: $c-secondary url('../images/phone.png') no-repeat;
+      background-size: 50%;
+      background-position: center center;
       float: left;
       margin-right: 20px;
 
