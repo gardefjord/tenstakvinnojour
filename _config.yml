@@ -17,7 +17,7 @@ title: Tensta Kvinnojour
 email: tenstakvinnojour@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tensta Kvinno- & Tjejjour ger stöd till kvinnor, tjejer, mammor och barn, som är utsatt för våld och hot. Behöver du hjälp, ring 08-363870
-baseurl: "/tenstakvinnojour" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 
 
