@@ -110,6 +110,10 @@ header {
         padding: 52px 70px;
         background: rgba(#4D1120, 0.04);
 
+        li {
+          margin-bottom: 40px;
+        }
+
         @include small {
           padding: 20px 30px;
         }
