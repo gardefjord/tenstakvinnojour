@@ -238,8 +238,6 @@ header {
     .section--two-column .section--inner.news {
       padding: 52px 70px;
       background: rgba(77, 17, 32, 0.04); }
-      .section--two-column .section--inner.news li {
-        margin-bottom: 40px; }
       @media (max-width: 799px) {
         .section--two-column .section--inner.news {
           padding: 20px 30px; } }
