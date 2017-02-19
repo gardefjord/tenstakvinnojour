@@ -4,18 +4,18 @@ layout: default
 <div class="section section--flags">
   <div class="section--languages">
   <ul class="flag-list">
-    <li><a href="{{ site.baseurl }}/"><span class="flag flag--swe active"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/somali"><span class="flag flag--som"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/english"><span class="flag flag--eng"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/polish"><span class="flag flag--pol"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/russian"><span class="flag flag--rus"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/turkish"><span class="flag flag--tur"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/finish"><span class="flag flag--fin"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/ukranian"><span class="flag flag--ukr"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/tigrinja"><span class="flag flag--eri"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/kurdish"><span class="flag flag--kur"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/arabic"><span class="flag flag--iraq"></span></a></li>
-    <li><a href="{{ site.baseurl }}/languages/persian"><span class="flag flag--iran"></span></a></li>
+    <li><a href="/"><span class="flag flag--swe active"></span></a></li>
+    <li><a href="/languages/somali"><span class="flag flag--som"></span></a></li>
+    <li><a href="/languages/english"><span class="flag flag--eng"></span></a></li>
+    <li><a href="/languages/polish"><span class="flag flag--pol"></span></a></li>
+    <li><a href="/languages/russian"><span class="flag flag--rus"></span></a></li>
+    <li><a href="/languages/turkish"><span class="flag flag--tur"></span></a></li>
+    <li><a href="/languages/finish"><span class="flag flag--fin"></span></a></li>
+    <li><a href="/languages/ukranian"><span class="flag flag--ukr"></span></a></li>
+    <li><a href="/languages/tigrinja"><span class="flag flag--eri"></span></a></li>
+    <li><a href="/languages/kurdish"><span class="flag flag--kur"></span></a></li>
+    <li><a href="/languages/arabic"><span class="flag flag--iraq"></span></a></li>
+    <li><a href="/languages/persian"><span class="flag flag--iran"></span></a></li>
   </ul>
   </div>
 </div>
@@ -74,7 +74,7 @@ layout: default
 <div class="section section--two-column">
   <div class="section--inner">
     <div class="puff">
-      <a href="{{ site.baseurl }}/varningstecken/">
+      <a href="/varningstecken/">
         <h2 class="bolder">Varningstecken</h2>
         <p>
           Har du en vän som drar sig undan familj och vänner? Är partnern kontrollerande och svartsjuk?
@@ -83,7 +83,7 @@ layout: default
     </div>
 
     <div class="puff">
-      <a href="{{ site.baseurl }}/orolig_for_en_van/">
+      <a href="/orolig_for_en_van/">
         <h2 class="bolder">Orolig för en vän?</h2>
         <p>
           Misstänker du att en anhörig eller vän är utsatt för våld av sin partner?
@@ -92,7 +92,7 @@ layout: default
     </div>
 
     <div class="puff">
-      <a href="{{ site.baseurl }}/sa_kan_jouren_hjalpa/">
+      <a href="/sa_kan_jouren_hjalpa/">
         <h2 class="bolder">Så kan jouren hjälpa</h2>
         <p>
           Någon som tror dig. Lyssnar, stöttar och peppar. Som inte ut­går från att de vet saker om dig som du inte själv berättat.
@@ -101,7 +101,7 @@ layout: default
     </div>
 
     <div class="puff">
-      <a href="{{ site.baseurl }}/om_tensta_kvinno_och_tjejejour/">
+      <a href="/om_tensta_kvinno_och_tjejejour/">
       <h2 class="bolder">Om jouren</h2>
         <p>
           Att kontakta tensta kvinno- och tjejjour är att ta första steget till att förändra sitt liv.
@@ -116,7 +116,7 @@ layout: default
     <ul>
       {% for post in site.posts %}
         <li>
-          <a class="headline bold" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <a class="headline bold" href="{{ post.url }}">{{ post.title }}</a>
           <p class="postdate">{{ post.date | date: '%B %d, %Y' }}</p>
           <p class="description">{{ post.description }}</p>
         </li>
