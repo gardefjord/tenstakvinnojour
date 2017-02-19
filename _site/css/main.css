@@ -173,7 +173,7 @@ header {
 .section--nav {
   flex-direction: column;
   justify-content: space-between;
-  height: 90px;
+  max-height: 90px;
   padding: 10px 50px; }
   @media (max-width: 799px) {
     .section--nav {
@@ -336,7 +336,7 @@ header {
   display: block;
   background-size: 100% auto;
   margin-right: 5px;
-  opacity: 0.5; }
+  opacity: 0.2; }
   @media (max-width: 799px) {
     .flag {
       height: 30px;
@@ -367,7 +367,7 @@ header {
 .flag--tur {
   background-image: url("../images/flags/turkey.png"); }
 
-.flag--rys {
+.flag--rus {
   background-image: url("../images/flags/russia.png"); }
 
 .flag--pol {

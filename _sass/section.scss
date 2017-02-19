@@ -17,7 +17,7 @@ header {
   &--nav {
     flex-direction: column;
     justify-content: space-between;
-    height: 90px;
+    max-height: 90px;
     padding: 10px 50px;
 
     @include small {
