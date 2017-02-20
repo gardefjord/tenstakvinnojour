@@ -110,6 +110,10 @@ header {
         padding: 52px 70px;
         background: rgba(#4D1120, 0.04);
 
+        li {
+          padding-bottom: 40px;
+        }
+
         @include small {
           padding: 20px 30px;
         }
@@ -165,6 +169,8 @@ header {
     }
   }
   &--article {
+    padding-left: 30px;
+    padding-right: 30px;
 
     .section--inner {
       max-width: 540px;
@@ -173,7 +179,12 @@ header {
       justify-content: center;
       padding: 120px 0px;
       text-align: left;
+      @include small {
+      padding: 60px 0px;
     }
+    }
+
+
   }
 
   &--footer {

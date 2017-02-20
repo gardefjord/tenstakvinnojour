@@ -8,6 +8,11 @@
     font-weight: 800;
   }
 
+  h2 {
+    font-size: 21px;
+    font-weight: 800;
+  }
+
   h3 {
     margin: 24px 0px 8px 0px;
   }
@@ -16,6 +21,15 @@
   }
   p {
     margin-bottom: 12px;
+    font-weight: 400;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 800;
   }
 
   ol {

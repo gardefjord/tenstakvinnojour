@@ -7,7 +7,7 @@ description: "21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 ---
 ---
 
-21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
+21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 ----------------------------------------------
 
 Män i Tensta har ansvar för att stoppa kontroll och våld mot
