@@ -2,6 +2,7 @@
 
 header {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   position: fixed;
   width: 100%;
@@ -10,26 +11,28 @@ header {
 
   @include small {
     position: relative;
+    flex-direction: column;
+    justify-content: center;
   }
 
 }
 .section {
   &--nav {
     flex-direction: column;
-    justify-content: space-between;
     max-height: 90px;
     padding: 10px 50px;
 
     @include small {
-      height: 50px;
-      padding: 5px 10px;
+      justify-content: center;
+      height: 80px;
+      padding: 5px 15px;
     }
   }
   &--languages {
     padding: 100px 50px 0px 50px;
 
     @include small {
-      padding: 50px 25px 0px 25px;
+      padding: 0px 25px 0px 25px;
     }
   }
 
