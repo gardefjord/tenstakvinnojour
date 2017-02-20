@@ -82,13 +82,25 @@
   clear: both; }
   .opening table .days {
     font-size: 14px; }
+    @media (max-width: 799px) {
+      .opening table .days {
+        font-size: 11px; } }
     .opening table .days td {
       padding-right: 22px; }
+      @media (max-width: 799px) {
+        .opening table .days td {
+          padding-right: 10px; } }
   .opening table .hours {
     font-size: 18px;
     font-weight: 600; }
+    @media (max-width: 799px) {
+      .opening table .hours {
+        font-size: 12px; } }
     .opening table .hours td {
       padding-right: 22px; }
+      @media (max-width: 799px) {
+        .opening table .hours td {
+          padding-right: 10px; } }
 
 .puff {
   border-radius: 5px;

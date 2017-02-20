@@ -73,8 +73,16 @@
     .days {
       font-size: 14px;
 
+      @include small {
+        font-size: 11px;
+      }
+
       td {
         padding-right: 22px;
+
+        @include small {
+          padding-right: 10px;
+        }
       }
     }
 
@@ -82,8 +90,15 @@
       font-size: 18px;
       font-weight: 600;
 
+      @include small {
+        font-size: 12px;
+      }
+
       td {
         padding-right: 22px;
+        @include small {
+          padding-right: 10px;
+        }
       }
     }
   }
