@@ -76,7 +76,8 @@
           float: left; }
         .hero__info .hero__phone .phone-number .flag-list .flag {
           height: 22px;
-          width: 22px; }
+          width: 22px;
+          opacity: 1; }
 
 .opening {
   clear: both; }
@@ -305,7 +306,8 @@ header {
 .section--footer {
   background: #FF2D64;
   padding: 10px;
-  font-weight: 400; }
+  font-weight: 400;
+  color: #fff; }
   .section--footer a {
     color: #fff;
     text-decoration: none; }
@@ -374,6 +376,8 @@ header {
     .flag {
       height: 30px;
       width: 30px; } }
+  .flag:hover {
+    opacity: 0.6; }
   .flag.active {
     opacity: 1; }
 
