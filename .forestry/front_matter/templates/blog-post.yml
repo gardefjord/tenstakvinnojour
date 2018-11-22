@@ -9,7 +9,7 @@ fields:
   description: 'Bör inte vara alltför lång. Kort och koncis. '
   config:
     required: true
-  default: Välkommen på seminarium den 24:e November
+  default: ''
 - type: datetime
   label: Datum för publicering
   name: datum_for_publicering
@@ -18,7 +18,7 @@ fields:
   config:
     date_format: November 21, 2018
     required: true
-  default: 2018-11-20 23:00:00 +0000
+  default: ''
 - type: textarea
   name: brodtext_i_nyheten
   label: Brödtext i nyheten
