@@ -24,4 +24,5 @@ Deltagare:
 **Tara Twana**, S-kvinnor Stockholm stad
 **Paul Muray**, Folke Bernadotteakademin
 **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
+
 ---
