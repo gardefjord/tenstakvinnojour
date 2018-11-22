@@ -10,7 +10,7 @@ description: 21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 
 ## 21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 
-Män i tensta har ansvar för att stoppa kontroll och våld mot
+Män i Tensta har ansvar för att stoppa kontroll och våld mot
 kvinnor i Tensta. Det är en avgörande fråga för samhällets utveckling.
 I Sverige har statsminister Stefan Löfvén blivit FN-ambassadör för kampanjen ”He for she”. Vi vill att män i Tensta ska bli ambassadörer för kvinnors rätt till fria liv utan våld.
 
