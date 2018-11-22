@@ -1,30 +1,40 @@
 ---
-label: Välkommen på seminarium den 24:e November
-hide_body: 
-is_partial: 
+label: En nyhet
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: blog
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  description: Rubrik på nyheten (syns även på startsidan)
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  description: Datumet kommer synas som "November 21, 2018"
+  config:
+    required: true
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+  description: 'Lägg gärna till en kategori. Kategorin syns inte men det är bra för
+    framtida bruk. '
 - name: description
   label: Description
   type: textarea
   hidden: false
   default: ''
+  description: 'Syns bara på startsidan. En ingress kan man säga. Någonting kortfattat
+    som förklarar nyheten bättre än vad rubriken klarar av. '
