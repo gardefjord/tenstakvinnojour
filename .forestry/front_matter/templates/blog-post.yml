@@ -1,0 +1,7 @@
+---
+label: Blog post
+hide_body: false
+is_partial: false
+fields: []
+pages:
+- _posts/test.md
