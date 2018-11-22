@@ -32,5 +32,3 @@ VÄLKOMNA!
 Tensta kvinno- och tjejjour erbjuder skydd för kvinnor och barn som utsatts för våld. Stöd ges på svenska, engelska, ungerska, somaliska, ryska, ukrainska, turkiska, arabiska, finska och tigrinja.
 
 ***
-
-\**

@@ -24,4 +24,4 @@ Deltagare:
 **Paul Muray**, Folke Bernadotteakademin
 **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
 
-\**
+***
