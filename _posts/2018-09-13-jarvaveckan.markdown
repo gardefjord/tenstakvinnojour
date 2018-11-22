@@ -30,3 +30,5 @@ Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konstha
 * **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
 
 ***
+
+![](/uploads/Seminarium, Tensta Konsthall 18.11.24.png)
