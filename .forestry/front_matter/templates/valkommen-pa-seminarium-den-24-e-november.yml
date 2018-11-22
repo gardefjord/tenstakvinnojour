@@ -38,3 +38,5 @@ fields:
   default: ''
   description: 'Syns bara på startsidan. En ingress kan man säga. Någonting kortfattat
     som förklarar nyheten bättre än vad rubriken klarar av. '
+pages:
+- _posts/test.md
