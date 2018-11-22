@@ -14,8 +14,12 @@ description: Seminarium för att uppmärksamma internationella dagen för avskaf
 Tensta kvinno- och tjejjour tillsammans med Stockholms FN-förening.
 
 ### Tid och plats
+<<<<<<< HEAD:_drafts/2018-11-22-seminarium-FN.markdown
 
 Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konsthall&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqxqfwiejeAhWGtYsKHdqeCAoQ_AUIDygC). Fika Serveras. Fritt inträde. Du anmäler dig till info@fnstockholm.se.
+=======
+Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konsthall&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqxqfwiejeAhWGtYsKHdqeCAoQ_AUIDygC). Fika Serveras. Fritt inträde. Du anmäller dig till info@fnstockholm.se.
+>>>>>>> parent of 39a6668... Update _posts/2018-11-22-seminarium-FN.markdown:_posts/2018-11-22-seminarium-FN.markdown
 
 ### Deltagare
 
