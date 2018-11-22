@@ -13,13 +13,13 @@ description: Seminarium för att uppmärksamma internationella dagen för avskaf
 
 Vi informerade besökare och deltagare under [Järvaveckan](http://jarvaveckan.se/) om vår verksamhet. I samarbete med Kvinnolobbyn informerade vi om deras projekt Rösträtt. Vi hade även tema-dagar (Kvinnokonventionen, Lön hela dagen!, Heder, Barnäktenskap och Utanförskap på arbetsmarknaden) där mycket kunniga föreläsare höll i korta seminarium. Dessa dagar var väldigt lyckade och vi ser fram emot ett lika lyckat besök under Järvaveckan 2019.
 
-#### Arrangörer:
+Arrangörer:
 
 Tensta kvinno- och tjejjour tillsammans med Stockholms FN-förening.
 
 Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konsthall&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqxqfwiejeAhWGtYsKHdqeCAoQ_AUIDygC "Tensta konsthall"). Fika Serveras. Fritt inträde. Du anmäler dig till info@fnstockholm.se.
 
-#### Deltagare:
+Deltagare:
 
 * **Gertrud Åström**, Stockholms FN-förening
 * **Sonja Gardefjord**, Tensta kvinno- och tjejjour
