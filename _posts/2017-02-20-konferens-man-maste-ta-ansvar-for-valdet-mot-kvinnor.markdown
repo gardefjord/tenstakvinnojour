@@ -1,20 +1,20 @@
 ---
 layout: blog
-title:  "Konferens: Män måste ta ansvar för våldet mot kvinnor."
-date:   2017-02-20
+title: 'Konferens: Män måste ta ansvar för våldet mot kvinnor.'
+date: 2017-02-20 00:00:00 +0000
 categories: Konferens
-description: "21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA"
----
----
+description: 21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 
-21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
-----------------------------------------------
+---
+***
+
+## 21 februari 2017, kl.13.00-16.30 Blå Huset, Tenstaplan 8, TENSTA
 
 Män i Tensta har ansvar för att stoppa kontroll och våld mot
 kvinnor i Tensta. Det är en avgörande fråga för samhällets utveckling.
 I Sverige har statsminister Stefan Löfvén blivit FN-ambassadör för kampanjen ”He for she”. Vi vill att män i Tensta ska bli ambassadörer för kvinnors rätt till fria liv utan våld.
 
-*Vad vill och gör Stockholms stad? Vad säger forskningen? Vad säger lagen? Vad kan vi tillsammans göra för att skapa ett jämställt Tensta?*
+_Vad vill och gör Stockholms stad? Vad säger forskningen? Vad säger lagen? Vad kan vi tillsammans göra för att skapa ett jämställt Tensta?_
 Kom och lyssna till politiker och ledande experter.
 Delta i diskussionerna och kom med bra idéer.
 Var med och skapa jämställda mötesplatser.
@@ -31,5 +31,6 @@ VÄLKOMNA!
 
 Tensta kvinno- och tjejjour erbjuder skydd för kvinnor och barn som utsatts för våld. Stöd ges på svenska, engelska, ungerska, somaliska, ryska, ukrainska, turkiska, arabiska, finska och tigrinja.
 
----
+***
 
+\**
