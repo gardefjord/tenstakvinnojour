@@ -1,5 +1,5 @@
 ---
-label: Blog post
+label: Nyhet
 hide_body: false
 is_partial: false
 fields:
@@ -9,5 +9,23 @@ fields:
   description: 'Bör inte vara alltför lång. Kort och koncis. '
   config:
     required: true
+- type: datetime
+  label: Datum för publicering
+  name: datum_for_publicering
+  description: 'Välj ett datum på nyheten. Detta datum syns för besökare (bedöma om
+    nyheten är gammal eller ny) '
+  config:
+    date_format: November 21, 2018
+    required: true
+- type: textarea
+  name: brodtext_i_nyheten
+  label: Brödtext i nyheten
+  description: Tänk på att länka om det går. Samt använda dig av bold, italic, listor
+    etc.
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/test.md
