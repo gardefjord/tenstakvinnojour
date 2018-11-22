@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 'Välkommen på seminarium den 24:e November'
-date: 2018-11-22 00:00:00 +0000
+date: 2018-11-21 00:00:00 +0000
 categories: Seminarium
 description: Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor
 
