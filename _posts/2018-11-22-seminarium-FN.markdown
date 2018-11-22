@@ -1,15 +1,14 @@
-
 ---
 layout: blog
-title:  "Välkommen på seminarium den 24:e November!"
-date:   2018-09-13
-categories: Konferens
-description: "Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor"
----
----
+title: 'Välkommen på seminarium den 24:e November'
+date: 2018-11-22 00:00:00 +0000
+categories: Seminarium
+description: Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor
 
-Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor.
-----------------------------------------------
+---
+***
+
+## Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor.
 
 Arrangörer:
 Tensta kvinno- och tjejjour tillsammans med Stockholms FN-förening.
@@ -25,4 +24,4 @@ Deltagare:
 **Paul Muray**, Folke Bernadotteakademin
 **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
 
----
+\**
