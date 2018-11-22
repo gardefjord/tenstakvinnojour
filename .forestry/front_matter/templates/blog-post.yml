@@ -2,6 +2,12 @@
 label: Blog post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: rubrik_paa_nyheten
+  label: Rubrik på nyheten
+  description: 'Bör inte vara alltför lång. Kort och koncis. '
+  config:
+    required: true
 pages:
 - _posts/test.md
