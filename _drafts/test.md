@@ -39,4 +39,4 @@ Den avslutande diskussionen med publiken var om något än mer intressant. Här 
 
 Vi på Tensta Kvinno- och Tjejjour är hemskt tacksamma för att så pass många dök upp samt att våra talare kunde ta sig tiden att informera och lyfta denna viktiga fråga.
 
-> Det finns ingen anledning att vara utan hopp.
+_Det finns ingen anledning att vara utan hopp_.
