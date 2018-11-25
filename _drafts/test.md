@@ -27,6 +27,12 @@ Tensta kvinnojours vice ordförande Sofia Bladin Jansson inlett och presenterad 
 
 Aase Smedler från Stockholms FN förening drog på sig en orange t-shirt för att uppmärksamma [FNs utnämning av den 25:e varje månad är en orange dag](http://www.unwomen.se/engagera-dig/orange-day/ "Orange day"). En dag för regeringar, företag, organisationer, media, civilsamhället och privatpersoner att uppmärksamma och ta ställning mot våld mot kvinnor. Som en ljus och optimistisk färg representerar orange en framtid fri från våld mot kvinnor och flickor.
 
-Sus Andersson tog oss tillbaka till Stockholm och det lokala arbetet mot våld i nära relationer. Sus lyfte upp Relationsvåldscenter i Spånga som en viktig del i att motverka våldet.
+Sus Andersson tog oss tillbaka till Stockholm och det lokala arbetet mot våld i nära relationer. Sus lyfte upp [Relationsvåldscenter](http://www.stockholm.se/-/Nyheter/Familj--Omsorg/Nytt-Relationsvaldscentrum-oppnar-for-vasterort/ "Nytt Relationsvåldscentrum öppnar för västerort") i Spånga som en viktig del i att motverka våldet.
 
-Vad gör vi nu?
+[Tara Twana](http://www.taratwana.se/ "Tara Twana - Ett friskare (S)tockholm") från [S-kvinnor](http://s-kvinnor.se/) pratade om att våldet inte har med klass eller härkomst att göra, våldet mot kvinnor finns överallt och vi måste prata om det varje dag, inte bara på denna internationella dag. Tara lyfte även behovet av utökad kunskap hos bl.a. myndigheter som en viktig faktor. 
+
+Paul Murray från Folke Bernadotteakademin introducerade den internationella fredsorganisation han arbetar för och berättade om vikten av att vetskapen om våldet mot kvinnor även måste inkluderas i det fredsarbete som pågår i krigsdrabbade länder. 
+
+Elvir Kacinic från Rinkeby-Kista Stadsdelsnämnd berättade att under det gånga året hade man placerat runt 40 kvinnor i skyddsboende. Han lyfte även vikten av att vi måste prata om dessa frågor tidigt i åldrarna och att man i Rinkeby-Kista har haft lyckade resultat med [antivåldsaktions veckor](http://www.stockholm.se/-/Nyheter/Bygga--Bo/RK_Valdsforebyggande-vecka-program/ "Våldsförebyggande vecka i Rinkeby-Kista").
+
+Den avslutande diskussionen med publiken var om något än mer intressant. Här diskuterades alltifrån [pornografins relation till våldet](), samtyckeslagen, vikten av sexualundervisningen och SRHR samt vikten av civilkurage.    
