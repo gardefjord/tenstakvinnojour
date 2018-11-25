@@ -39,5 +39,4 @@ fields:
   description: 'Syns bara på startsidan. En ingress kan man säga. Någonting kortfattat
     som förklarar nyheten bättre än vad rubriken klarar av. '
 pages:
-- _posts/2018-11-22-test.md
 - _posts/välkommen-på-seminarium-den-24-e-november.md
