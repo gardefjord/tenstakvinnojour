@@ -20,6 +20,8 @@
 .section--article p {
   margin-bottom: 12px;
   font-weight: 400; }
+.section--article img {
+  width: 100%; }
 .section--article em {
   font-style: italic; }
 .section--article strong {
