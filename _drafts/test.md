@@ -7,6 +7,7 @@ description: Tensta Kvinno- och Tjejjour och Stockhoms FN-förening uppmärksamm
   den internationella dagen för avskaffande av mäns våld mot kvinnor.
 
 ---
+![](/uploads/Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor.jpg)
 
 Vi på Tensta Kvinno- och Tjejjour _arrangerade_ i tillsammans med Stockhoms FN-förening  ett seminarium för att uppmärksamma den [internationella dagen för avskaffande av mäns våld mot kvinnor](http://www.un.org/en/events/endviolenceday/ "International Day for the Elimination of Violence against Women 25 November ").
 
