@@ -4,6 +4,7 @@ layout: blog
 date: 2018-11-25 17:01:51 +0000
 categories:
 - seminarium
+- evenemang
 description: 'Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockholms
   FN-förening den internationella dagen för avskaffandet av mäns våld mot kvinnor. '
 
