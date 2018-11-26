@@ -23,3 +23,9 @@ url: "http://tenstakvinnojour.se" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 theme: minima
+
+sass:
+    sass_dir: css
+    style: :compressed
+
+exclude: [Gemfile, Gemfile.lock, Procfile, CNAME, README.md]
