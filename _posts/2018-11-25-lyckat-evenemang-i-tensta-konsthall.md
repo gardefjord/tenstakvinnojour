@@ -1,12 +1,13 @@
 ---
-title: Lyckat evenemang i Tensta Konsthall
 layout: blog
+title: 'Lyckat evenemang i Tensta Konsthall'
 date: 2018-11-25 12:24:42 +0100
-categories: []
-description: Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockholms
-  FN-förening den internationella dagen för avskaffandet av mäns våld mot kvinnor.
+categories: Seminarium
+description: Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockholms FN-förening den internationella dagen för avskaffandet av mäns våld mot kvinnor.
 
 ---
+***
+
 Vi på Tensta Kvinno- och Tjejjour _arrangerade_ i tillsammans med Stockhoms FN-förening ett seminarium för att uppmärksamma den [internationella dagen för avskaffande av mäns våld mot kvinnor](http://www.un.org/en/events/endviolenceday/).
 
 Evenemanget ägde rum i fina [Tensta Konsthall](http://www.tenstakonsthall.se/).
@@ -18,8 +19,8 @@ Inbjudna att tala var:
 * **Aase Smedler**, Stockholms FN-förening
 * **Tara Twana**, S-kvinnor Stockholm stad
 * **Paul Muray**, Folke Bernadotteakademin
-* **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd  
-   
+* **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
+
 
 Efter att Tensta kvinnojours vice ordförande **Sofia Bladin Jansson** inlett och presenterad evenemanget tog **Gertrud Åström** vid med en historiegenomgång som inleddes med årtalet 1864 då mannen förlorade rätten att slå sin hustru i Sverige och avslutades med det faktum att vi idag fortfarande inte lyckats implementera denna rättighet till fullo.
 
@@ -36,3 +37,5 @@ Efter att Tensta kvinnojours vice ordförande **Sofia Bladin Jansson** inlett oc
 Den avslutande diskussionen med publiken var om något än mer intressant. Här diskuterades alltifrån pornografins relation till våldet, samtyckeslagen, vikten av sexualundervisningen och [SRHR](https://www.rfsu.se/vad-vi-gor/i-varlden/vad-betyder-srhr/) samt vikten av civilkurage.
 
 Vi på Tensta Kvinno- och Tjejjour är hemskt tacksamma för att så pass många dök upp samt att våra talare kunde ta sig tiden att informera och lyfta denna viktiga fråga.
+
+***
