@@ -16,6 +16,7 @@ Tensta kvinno- och tjejjour tillsammans med Stockholms FN-förening.
 ### Tid och plats
 Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konsthall&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjqxqfwiejeAhWGtYsKHdqeCAoQ_AUIDygC). Fika Serveras. Fritt inträde. Du anmäler dig till info@fnstockholm.se.
 
+<<<<<<< HEAD
 ### Deltagare
 - **Gertrud Åström**, Stockholms FN-förening
 - **Sonja Gardefjord**, Tensta kvinno- och tjejjour
@@ -26,3 +27,14 @@ Kl. 13.00-15.00 i [Tensta konsthall](https://www.google.se/maps?q=Tensta+konstha
 - **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
 
 ***
+=======
+Deltagare:
+**Gertrud Åström**, Stockholms FN-förening
+**Sonja Gardefjord**, Tensta kvinno- och tjejjour
+**Sus Andersson**, Spånga-Tensta Stadsdelsnämnd
+**Aase Smedler**, Stockholms FN-förening
+**Tara Twana**, S-kvinnor Stockholm stad
+**Paul Muray**, Folke Bernadotteakademin
+**Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
+---
+>>>>>>> parent of 07b6f13... Update _posts/2018-11-22-seminarium-FN.markdown
