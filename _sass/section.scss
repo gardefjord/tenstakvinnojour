@@ -192,13 +192,13 @@ header {
   }
 
   &--footer {
-    background: $c-primary;
+    background: $c-secondary;
     padding: 10px;
     font-weight: 400;
-    color: #fff;
+    color: #ccc;
 
     a {
-      color: #fff;
+      color: #ccc;
       text-decoration: none;
 
       &:hover {
