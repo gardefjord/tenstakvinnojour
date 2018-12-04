@@ -1,14 +1,11 @@
 ---
 layout: blog
-title: Lyckat evenemang i Tensta Konsthall
-date: 2018-11-25 11:24:42 +0000
+title: 'Lyckat evenemang i Tensta Konsthall'
+date: 2018-11-25 12:24:42 +0100
 categories: Seminarium
-description: Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockholms
-  FN-förening den internationella dagen för avskaffandet av mäns våld mot kvinnor.
+description: Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockholms FN-förening den internationella dagen för avskaffandet av mäns våld mot kvinnor.
 
 ---
-![](/uploads/Seminarium för att uppmärksamma internationella dagen för avskaffandet av mäns våld mot kvinnor.jpg)
-
 ***
 
 Vi på Tensta Kvinno- och Tjejjour _arrangerade_ i tillsammans med Stockhoms FN-förening ett seminarium för att uppmärksamma den [internationella dagen för avskaffande av mäns våld mot kvinnor](http://www.un.org/en/events/endviolenceday/).
@@ -23,6 +20,7 @@ Inbjudna att tala var:
 * **Tara Twana**, S-kvinnor Stockholm stad
 * **Paul Muray**, Folke Bernadotteakademin
 * **Elvir Kazinic**, Rinkeby-Kista Stadsdelsnämnd
+
 
 Efter att Tensta kvinnojours vice ordförande **Sofia Bladin Jansson** inlett och presenterad evenemanget tog **Gertrud Åström** vid med en historiegenomgång som inleddes med årtalet 1864 då mannen förlorade rätten att slå sin hustru i Sverige och avslutades med det faktum att vi idag fortfarande inte lyckats implementera denna rättighet till fullo.
 
