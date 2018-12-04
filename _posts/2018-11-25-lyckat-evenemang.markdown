@@ -8,7 +8,7 @@ description: Tensta Kvinno- och Tjejjour uppmärksammar tillsammans med Stockhol
 ---
 ***
 
-Vi på Tensta Kvinno- och Tjejjour _arrangerade_ i tillsammans med Stockhoms FN-förening ett seminarium för att uppmärksamma den [internationella dagen för avskaffande av mäns våld mot kvinnor](http://www.un.org/en/events/endviolenceday/).
+Vi på Tensta Kvinno- och Tjejjour arrangerade tillsammans med Stockhoms FN-förening ett seminarium för att uppmärksamma den [internationella dagen för avskaffande av mäns våld mot kvinnor](http://www.un.org/en/events/endviolenceday/).
 
 Evenemanget ägde rum i fina [Tensta Konsthall](http://www.tenstakonsthall.se/).
 
@@ -24,7 +24,7 @@ Inbjudna att tala var:
 
 Efter att Tensta kvinnojours vice ordförande **Sofia Bladin Jansson** inlett och presenterad evenemanget tog **Gertrud Åström** vid med en historiegenomgång som inleddes med årtalet 1864 då mannen förlorade rätten att slå sin hustru i Sverige och avslutades med det faktum att vi idag fortfarande inte lyckats implementera denna rättighet till fullo.
 
-**Aase Smedler** från Stockholms FN förening drog på sig en orange t-shirt för att uppmärksamma [FNs utnämning av den 25:e varje månad är en orange dag](http://www.unwomen.se/engagera-dig/orange-day/). En dag för regeringar, företag, organisationer, media, civilsamhället och privatpersoner att uppmärksamma och ta ställning mot våld mot kvinnor. Som en ljus och optimistisk färg representerar orange en framtid fri från våld mot kvinnor och flickor.
+**Aase Smedler** från Stockholms FN förening drog på sig en orange T-shirt för att uppmärksamma [FNs utnämning av den 25:e varje månad är en orange dag](http://www.unwomen.se/engagera-dig/orange-day/). En dag för regeringar, företag, organisationer, media, civilsamhället och privatpersoner att uppmärksamma och ta ställning mot våld mot kvinnor. Som en ljus och optimistisk färg representerar orange en framtid fri från våld mot kvinnor och flickor.
 
 **Sus Andersson** tog oss tillbaka till Stockholm och det lokala arbetet mot våld i nära relationer. Sus lyfte upp [Relationsvåldscenter](http://www.stockholm.se/-/Nyheter/Familj--Omsorg/Nytt-Relationsvaldscentrum-oppnar-for-vasterort/) i Spånga som en viktig del i att motverka våldet.
 
