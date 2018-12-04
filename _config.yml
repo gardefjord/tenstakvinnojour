@@ -25,7 +25,7 @@ markdown: kramdown
 theme: minima
 
 sass:
-    sass_dir: css
+    sass_dir: _sass
     style: :compressed
 
 exclude: [Gemfile, Gemfile.lock, Procfile, CNAME, README.md]
