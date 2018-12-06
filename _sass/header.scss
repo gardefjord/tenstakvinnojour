@@ -21,6 +21,7 @@
       text-decoration: none;
       display: flex;
       align-items: flex-start;
+      border: none;
 
       @include small {
         text-transform: none;
@@ -29,12 +30,23 @@
       }
 
       &:hover, &:focus {
-        color: black;
+        color: $c-primary;
       }
     }
   }
 }
+
 .logo {
   padding-top: 10px;
   height: 100%;
+  border: none;
+  display: block;
+
+  &:hover {
+    border: none;
+  }
+
+  img {
+    height: 100%;
+  }
 }
