@@ -128,16 +128,24 @@ header {
 
         .headline {
           display: block;
-          border-bottom: 5px solid $c-primary;
           padding-bottom: 5px;
-          margin-bottom: 15px;
+          margin-bottom: 0px;
+          text-transform: none;
+          line-height: 1.2;
         }
 
         .postdate {
           text-transform: uppercase;
-          font-size: 14px;
+          font-size: 11px;
           margin-bottom: 10px;
+          font-weight: 600;
+          opacity: 0.5;
         }
+
+        .description {
+        }
+
+
       }
 
     }
