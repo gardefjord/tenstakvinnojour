@@ -37,7 +37,6 @@
 }
 
 .logo {
-  padding-top: 10px;
   height: 100%;
   border: none;
   display: block;
@@ -47,6 +46,8 @@
   }
 
   img {
+    display: block;
+    max-height: 90px;
     height: 100%;
   }
 }
